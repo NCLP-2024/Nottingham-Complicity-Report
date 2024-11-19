@@ -1,9 +1,14 @@
-**Abstract:**  
-This report explores the University of Nottingham’s role in enabling the illegal occupation of Palestine and the genocide of the Palestinian people. It investigates the university's investments in complicit companies, partnerships with arms manufacturers, and silence on the ongoing atrocities.  
+# NCLP report The University of Nottingham’s Complicity In The Illegal Occupation and Genocide of The Palestinian People
 
----
 
-[**Download the Report (PDF)**](https://github.com/user-attachments/files/17815755/v1.5.final.pdf)
+## [**Download the Report (PDF)**](https://github.com/user-attachments/files/17815755/v1.5.final.pdf)
+
+
+
+
+
+### This report explores the University of Nottingham’s role in enabling the illegal occupation of Palestine and the genocide of the Palestinian people. It investigates the university's investments in complicit companies, partnerships with arms manufacturers, and silence on the ongoing atrocities.  
+
 
 
 
@@ -17,7 +22,8 @@ This report is endorsed by these organisations:
 - [Demilitarise Education (dED) ](#)
 - [Friends of Al-Aqsa (FOA) ](#)
 - [People for Palestine (PFP)](#)
-- [War on Want](#) <br> 
+- [War on Want](#) <br>
+  
   
 ....And many more including socieities and academics.
 
