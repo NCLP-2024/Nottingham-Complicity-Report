@@ -5,86 +5,93 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>NCLP Report</title>
     <style>
-        /* General Styling */
+        /* Styling for the overall page */
         body {
-            font-family: Arial, sans-serif;
-            line-height: 1.6;
             margin: 0;
-            padding: 0;
+            font-family: Arial, sans-serif;
             background-color: #013220; /* Dark green background */
-            color: #f5f5f5; /* Light text color for contrast */
+            color: #f5f5f5; /* Light text color */
+            line-height: 1.6;
         }
 
-        /* Header Styling */
-        h1, h2, h3 {
-            text-align: center;
-            color: #e3b04b; /* Gold for titles */
-        }
-
-        /* Content Container */
-        .content {
+        /* Container for the main content */
+        .container {
             max-width: 800px;
-            margin: auto;
+            margin: 20px auto;
             padding: 20px;
-            background-color: #1f3320; /* Slightly lighter green for content block */
+            background-color: #1f3320; /* Slightly lighter green */
             border-radius: 10px;
             box-shadow: 0 4px 10px rgba(0, 0, 0, 0.3);
         }
 
-        /* Abstract Section */
+        /* Styling for the headers */
+        h1 {
+            text-align: center;
+            color: #e3b04b; /* Gold for main title */
+            margin-bottom: 10px;
+        }
+
+        h3 {
+            text-align: center;
+            color: #f5f5f5;
+            margin-top: 0;
+        }
+
+        /* Abstract section styling */
         .abstract {
-            font-size: 1.1em;
-            padding: 10px;
-            background-color: #154a32; /* Another variation of green */
+            background-color: #154a32; /* Medium dark green */
+            padding: 15px;
             border-radius: 8px;
             margin-bottom: 20px;
         }
 
-        /* Links Styling */
+        /* Links */
         a {
-            color: #e3b04b; /* Gold for links */
+            color: #e3b04b;
             text-decoration: none;
         }
+
         a:hover {
             text-decoration: underline;
         }
 
-        /* Endorsements Section */
+        /* Endorsements styling */
         .endorsements ul {
             list-style-type: none;
             padding: 0;
         }
+
         .endorsements li {
             margin: 5px 0;
         }
 
-        /* Logo Styling */
+        /* Logo styling */
         .logo {
             float: right;
-            margin: 20px;
+            margin: 10px;
         }
 
-        /* Footer */
+        /* Footer styling */
         footer {
             text-align: center;
             padding: 10px 0;
-            margin-top: 20px;
             background-color: #012d1c; /* Even darker green for footer */
             color: #f5f5f5;
             border-top: 1px solid #e3b04b;
+            margin-top: 20px;
         }
     </style>
 </head>
 <body>
-    <div class="content">
+    <div class="container">
         <img src="https://github.com/user-attachments/assets/27f4bb76-fb5a-4610-a239-19b979df2e2b" 
              alt="NCLP Logo" width="150" class="logo" />
         <h1>University of Nottingham's Complicity in the Illegal Occupation and Genocide of the Palestinian People</h1>
         <h3>Author: Nottingham Camp for the Liberation of Palestine</h3>
-        
+
         <div class="abstract">
             <p><strong>Abstract:</strong><br>
-            This report explores the University of Nottingham’s role in enabling the illegal occupation of Palestine and the genocide of the Palestinian people. It investigates the university's investments in complicit companies, partnerships with arms manufacturers, and silence on the ongoing atrocities.
+                This report explores the University of Nottingham’s role in enabling the illegal occupation of Palestine and the genocide of the Palestinian people. It investigates the university's investments in complicit companies, partnerships with arms manufacturers, and silence on the ongoing atrocities.
             </p>
         </div>
 
